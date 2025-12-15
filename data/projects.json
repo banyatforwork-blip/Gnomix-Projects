@@ -1,0 +1,35 @@
+{
+  "siteInfo": {
+    "title": "Gnomix",
+    "tagline": "Transform Ubuntu Into Pure GNOME",
+    "description": "A collection of open-source projects and tools for customizing your Linux experience.",
+    "githubProfile": "https://github.com/gnomixperson",
+    "discordUrl": "https://discord.gg/RHS3NptNpc"
+  },
+  "projects": [
+    {
+      "id": "gnomix-script",
+      "name": "Gnomix Script",
+      "description": "A powerful customization script that transforms your Ubuntu system into a pure, vanilla desktop environment. Strips away Canonical modifications, Snap packages, and bloatware - giving you your choice of GNOME, KDE Plasma, XFCE, Cinnamon, or MATE.",
+      "githubUrl": "https://github.com/gnomixperson/gnomix_script",
+      "tags": ["Ubuntu", "GNOME", "Linux", "TypeScript"],
+      "featured": true
+    },
+    {
+      "id": "gnomix-os",
+      "name": "Gnomix OS",
+      "description": "A stripped-down minimal custom version of Ubuntu, with pure GNOME. Gnomix is a community remix of Ubuntu - not affiliated with or endorsed by Canonical Ltd. Experience Ubuntu the way it was meant to be.",
+      "githubUrl": "https://github.com/gnomixperson/gnomix_os",
+      "tags": ["Ubuntu", "GNOME", "Linux", "TypeScript", "Archived"],
+      "featured": false
+    },
+    {
+      "id": "rust-iso",
+      "name": "Rust ISO",
+      "description": "A bootable medium for installing Rust on your computer. Simply boot the ISO and it will integrate the Rust kernel into your GRUB bootloader for easy installation.",
+      "githubUrl": "https://github.com/gnomixperson/rust-iso",
+      "tags": ["Rust", "ISO", "Bootable", "Linux"],
+      "featured": false
+    }
+  ]
+}
